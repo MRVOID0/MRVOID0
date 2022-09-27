@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @MRVOID0
 - 👀 I’m interested in ..."programming"  
 
-- 🌱 I’m currently learning ..."c programmming"
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...(ma_y_a_nk)<- insta profile
 
 <!---
 MRVOID0/MRVOID0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
